@@ -1,3 +1,3 @@
 # 99-bottles-of-beer_hf_java
-Solution to the flaw of the mentioned program in the book.
+Solution to the flaw in the program written in the book.
 
